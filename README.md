@@ -20,7 +20,7 @@ Convert any video into ASCII art and play it right in your terminal! This tool t
 
 ## 📦 Installation
 
-1. Clone this repository:
+1. Clone this repository into vs code or any code editor:
 ```bash
 git clone https://github.com/yourusername/video-to-ascii.git
 cd video-to-ascii
@@ -125,3 +125,4 @@ Contributions are welcome! Feel free to:
 ---
 
 **Tip**: For the best experience, use a terminal with true color support and a monospace font like Consolas, Monaco, or JetBrains Mono!
+
